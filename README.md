@@ -6,7 +6,7 @@ Siga o passo a passo abaixo para garantir que todos os dados sejam lançados cor
 ---
 
 ## 🧭 1️⃣ Acesse a planilha compartilhada no Google Sheets
-👉 [Clique aqui para abrir a planilha](https://docs.google.com/spreadsheets/d/1oo7UL-w0Ej38YMXtj4UKt0z7aLi8aNV5OTdiNj3Fzqo/edit?usp=sharing)
+👉 [https://docs.google.com/spreadsheets/d/1oo7UL-w0Ej38YMXtj4UKt0z7aLi8aNV5OTdiNj3Fzqo/edit?usp=sharing]
 
 ---
 
